@@ -26,9 +26,13 @@ I consider myself an organized person, and my training has allowed me to develop
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
   <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-SQL_Bases_de_Datos-4479A1?logo=postgresql&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat-square" />
 </p>
 
 
