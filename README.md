@@ -1,16 +1,58 @@
-## Hola, soy Shadyn👋
+<!-- Banner personalizable -->
+<p align="center">
+  <img src="https://your-image-url-here.com/banner.png" alt="Your banner description" />
+</p>
 
-<!--
-**ShadiYn/ShadiYn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">¡Hola! 👋 Soy Shadyn </h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Redes sociales o contacto -->
+<p align="center">
+  <a href="[https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/shadin-l-harrak-373148273/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+
+  <a href="shadyndyn234@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
+
+<!-- Acerca de mí -->
+## 👨‍💻 About me
+I consider myself an organized person, and my training has allowed me to develop skills for working in a team. Additionally, I have the ability to adapt fluently to any technological environment.
+
+- 🌱 Learning: React web development
+
+
+## 🛠️ Technologies and Tools
+<p>
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-SQL_Bases_de_Datos-4479A1?logo=postgresql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square" />
+</p>
+
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario-github&theme=radical" alt="GitHub Streak">
+</p>
+
+<!-- Lenguajes más usados -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact&theme=radical" alt="Lenguajes más usados">
+</p>
+
+<!-- Animación de contribuciones -->
+## 💡 Contribuciones recientes
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tu-usuario-github&theme=radical&area=true)
