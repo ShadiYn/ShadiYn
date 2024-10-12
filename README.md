@@ -3,7 +3,7 @@
   <img src="https://your-image-url-here.com/banner.png" alt="Your banner description" />
 </p>
 
-<h1 align="center">¡Hola! 👋 Soy Shadyn </h1>
+<h1 align="center">¡Hi! 👋 I'm Shadyn </h1>
 
 
 <!-- Redes sociales o contacto -->
