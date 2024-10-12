@@ -40,19 +40,19 @@ I consider myself an organized person, and my training has allowed me to develop
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShadiYn&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario-github&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadiYn&theme=radical" alt="GitHub Streak">
 </p>
 
 <!-- Lenguajes más usados -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact&theme=radical" alt="Lenguajes más usados">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadiYn&layout=compact&theme=radical" alt="Lenguajes más usados">
 </p>
 
 <!-- Animación de contribuciones -->
 ## 💡 Contribuciones recientes
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tu-usuario-github&theme=radical&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShadiYn&theme=radical&area=true)
