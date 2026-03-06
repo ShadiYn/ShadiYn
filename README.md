@@ -22,7 +22,7 @@ I hold a Higher Degree in Multiplatform Application Development and I am current
 I am particularly interested in data analysis, financial systems, and technology-driven solutions. I enjoy working with data, automating processes, and building tools that help transform information into meaningful insights for decision-making.
 
 I am always open to new challenges and opportunities where I can continue learning, improving my skills, and contributing to impactful projects.
-- 🌱 Learning: React web development
+- 🌱 Learning: Excel
 
 
 ## 🛠️ Technologies and Tools
@@ -38,6 +38,7 @@ I am always open to new challenges and opportunities where I can continue learni
   <img src="https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
   <img src="https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square" />
 </p>
 
 
@@ -53,7 +54,6 @@ I am always open to new challenges and opportunities where I can continue learni
 
 <!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadiYn&layout=compact&theme=radical" alt="ShadiYn's Most Used Languages" width="48%" />
 </p>
 
 
