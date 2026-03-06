@@ -49,7 +49,6 @@ I am always open to new challenges and opportunities where I can continue learni
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ShadiYn&show_icons=true&theme=radical" alt="ShadiYn's GitHub Stats" width="48%" />
   
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadiYn&theme=radical" alt="ShadiYn's GitHub Streak" width="48%" />
