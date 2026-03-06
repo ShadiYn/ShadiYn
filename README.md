@@ -15,8 +15,13 @@
 
 <!-- Acerca de mí -->
 ## 👨‍💻 About me
-I consider myself an organized person, and my training has allowed me to develop skills for working in a team. Additionally, I have the ability to adapt fluently to any technological environment.
+I consider myself an organized, curious, and proactive person who enjoys learning and continuously improving. My academic background has allowed me to develop strong teamwork skills, adaptability, and the ability to solve problems in structured and efficient ways.
 
+I hold a Higher Degree in Multiplatform Application Development and I am currently studying Administration and Finance. This combination has given me both technical and business-oriented perspectives, allowing me to understand not only how systems are built but also how they create value for organizations.
+
+I am particularly interested in data analysis, financial systems, and technology-driven solutions. I enjoy working with data, automating processes, and building tools that help transform information into meaningful insights for decision-making.
+
+I am always open to new challenges and opportunities where I can continue learning, improving my skills, and contributing to impactful projects.
 - 🌱 Learning: React web development
 
 
